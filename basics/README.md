@@ -11,3 +11,7 @@ And hidden files (starting with .)
 
 task 6: Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 task 7: Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+task 8: Delete the file betty.
+
+The file betty is in /tmp/my_first_directory
