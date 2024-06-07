@@ -1,0 +1,2 @@
+#!/bin/bash
+cp shell/a/*.html .
