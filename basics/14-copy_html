@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u /parent/shell/*.html /parent/
+cp -u /parent/test_html/*.html /tmp/
