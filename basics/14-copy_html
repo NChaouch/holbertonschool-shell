@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -f shell/*.html parent
+cp *.html shell/parent
