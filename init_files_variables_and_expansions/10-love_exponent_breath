@@ -1,2 +1,2 @@
 #!/bin/bash
-printrev $(( $BREATH * $LOVE ))
+printrev $(( $BREATH ** $LOVE ))
