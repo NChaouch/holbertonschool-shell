@@ -1,2 +1,2 @@
 #!/bin/bash
-printrev $(( $BREATH ** $LOVE ))"\n"
+printf $(( $BREATH ** $LOVE ))"\n"
