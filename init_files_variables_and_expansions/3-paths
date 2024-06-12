@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc
+echo $PATH | sed s/:/\\n/g | wc -l
